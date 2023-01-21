@@ -1,0 +1,6 @@
+.idea
+node_modules
+dist
+*.js
+permutation-calc.iml
+pnpm-lock.yaml
